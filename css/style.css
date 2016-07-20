@@ -1,0 +1,90 @@
+
+/**This is the CSS for Onze Restaurant**/
+
+/**This is the body container**/
+
+body {
+    background-color: #FFE4C4;
+    text-align: center;
+}
+
+.containter{
+    
+}
+
+.h1 {
+    font-family: 'Raleway', sans-serif;
+    color: #8A2BE2;
+    font-size: 2em;
+}
+    
+.text {
+    font-family: 'Playfair Display', serif;
+    color: #A52A2A;
+    font-size: 10 px;
+}
+
+
+
+.logo {
+  height: 25%;
+  width: 25%;
+  margin-left: 10%;
+  margin-bottom: 5%;
+  margin-right: 5%;
+}
+
+/**This is the navbar**/
+
+.nav {
+    height: 100%;
+    width: 100%;
+}
+
+
+.ul {
+    list-style-type: none;
+    height: 50%;
+    width:50%;
+    margin: 0;
+    padding: 0;
+}
+
+#sidebar {
+    height: 100%;
+    width: 100%;
+ }
+ 
+ /**------------------footer---------------------**/
+
+.footer {
+  height: 30%;
+  width: 25%;
+  float: center;
+  clear: both;
+  margin-top: ;
+  margin-left: 40%;
+  margin-bottom: 5%;
+  margin-right: 5%;
+  background-color: #FFE4C4;
+}
+
+ /**This is currently the end of css styling**/
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
